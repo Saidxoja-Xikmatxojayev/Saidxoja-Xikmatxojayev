@@ -8,10 +8,8 @@ Welcome to my profile! I'm a student, aspiring [developer](https://t.me/Said_Xik
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently styding on <a href="[https://github.com/Spiderpig86/Cirrus](https://astrum.uz/uz)">Astrum IT-Academy</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🧐 I am a frontend developer, mainly interested in working with design</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Saidxoja-Xikmatxojayev">Github</a>.</li>
+<li>📝 I create landing pages in my spare time </li>
+<li>💬 Let me know if there are changes in React Js, Bootstrap, Ruby on Rails programming languages.</li>
 </ul>
