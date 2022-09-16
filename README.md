@@ -6,7 +6,8 @@ Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/
 [![Instagram Badge](https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/said__xikmatxojayev)
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300px">
+
 
 <li>🔭 I’m currently styding on <a href="[https://github.com/Spiderpig86/Cirrus](https://astrum.uz/uz)">Astrum IT-Academy</a>.</li>
 <li>🧐 I am a frontend developer, mainly interested in working with design</li>
