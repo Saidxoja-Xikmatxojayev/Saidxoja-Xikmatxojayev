@@ -1,4 +1,4 @@
-# Hi I'm Saidxo'ja 👋
+# Hi I'm Saidxo'ja <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/Said_Xikmatxojayev)"  I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz).  Thanks for visiting and I'd love to [Linkedin](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)!
 
