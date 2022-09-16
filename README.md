@@ -15,6 +15,7 @@ Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/
 <li>📝 I create landing pages in my spare time </li>
 <li>💬 Let me know if there are changes in React Js, Bootstrap, Ruby on Rails programming languages.</li>
 </ul>
+<br>
 
 <h2>🚀 Languages and Tools:</h2>
 <p align="left">
