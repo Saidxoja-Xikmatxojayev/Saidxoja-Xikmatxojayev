@@ -4,9 +4,10 @@ Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/
 
 [![Linkedin Badge](https://img.shields.io/badge/-saidxoja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidxoja/)](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)
 [![Instagram Badge](https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/said__xikmatxojayev)
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 <li>🔭 I’m currently styding on <a href="[https://github.com/Spiderpig86/Cirrus](https://astrum.uz/uz)">Astrum IT-Academy</a>.</li>
 <li>🧐 I am a frontend developer, mainly interested in working with design</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Saidxoja-Xikmatxojayev">Github</a>.</li>
