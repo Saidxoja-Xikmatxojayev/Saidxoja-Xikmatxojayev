@@ -1,6 +1,6 @@
 ## Hey, [Saidxoja here!](https://main.dn841vv60xbd2.amplifyapp.com)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/Said_Xikmatxojayev)"  I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz).  Thanks for visiting and I'd love to [Linkedin](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)!
+Welcome to my profile. I am mainly interested in the Frontend part. I can create any website using HTML, CSS, BOOTSTRAP, JAVASCRIPT tools. I am currently learning the ReactJS library. In the backend, I work on the Ruby on Rails framework of the Ruby programming language and have worked on several projects in this framework.
 
 [![Linkedin Badge](https://img.shields.io/badge/-saidxoja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidxoja/)](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)
 [![Instagram Badge](https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/said__xikmatxojayev)
