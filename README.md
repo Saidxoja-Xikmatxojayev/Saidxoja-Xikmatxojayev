@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Saidxoja 👋 I'm a 🚀 Uzbek developer">
-</p>
+## Hey, [Saidxoja here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
 
 Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/Said_Xikmatxojayev)"  I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz).  Thanks for visiting and I'd love to [Linkedin](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)!
 
