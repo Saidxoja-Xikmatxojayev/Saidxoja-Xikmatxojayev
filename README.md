@@ -18,9 +18,10 @@ Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/
 <br>
 
 <br>
-    <br>
+<br>
 <h2 align="left"> Languages and Tools: </h2>
-
+<br>
+<br>    
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -33,6 +34,7 @@ Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Rails](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=6aa6f8)
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
+<br>
 <br>
 
 <h3 align="left">GitHub Status</h3>
