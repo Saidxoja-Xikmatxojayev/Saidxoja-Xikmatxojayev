@@ -1,5 +1,8 @@
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-
+<p align="center">
+  <img style="bacground-color:black;" src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Saidxoja 👋 I'm a 🚀 Uzbek developer">
+</p>
+<br>
+<br>
 Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/Said_Xikmatxojayev)"  I am currently a student of [Astrum IT-Academy](https://astrum.uz/uz).  Thanks for visiting and I'd love to [Linkedin](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-saidxoja-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saidxoja/)](https://www.linkedin.com/in/saidxoja-xikmatxojayev-26275823b/)
