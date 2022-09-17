@@ -19,7 +19,7 @@ Welcome to my profile! I'm a student, aspiring "[telegram contact](https://t.me/
 
 <br>
     <br>
-<h2 align="center"> Languages and Tools: </h2>
+<h2 align="left"> Languages and Tools: </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
